@@ -1,0 +1,53 @@
+.homePage {
+    height: 100%;
+    text-align: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: #92BAD2;
+}
+
+
+
+.homePage h1 {
+    font-family: 'Cedarville Cursive';
+    padding: 0;
+    margin: 0;
+    font-size: 4em;
+    background: -webkit-linear-gradient(#984535, red);
+    text-shadow: 2px 2px rgb(0,0,0,.5);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-stroke-width: .01rem;
+    -webkit-text-stroke-color: #984535;
+}
+
+.homePage h3 {
+    font-family: 'Cedarville Cursive';
+    color: #395877;
+    font-size: 3em;
+}
+
+.homePage img {
+    margin: 0 auto;
+    height: 350px;
+    width: 350px;
+    padding: 0;
+    margin: 0;
+    -webkit-filter: drop-shadow(0px 0px 15px rgb(0,0,0,.5));
+    filter: drop-shadow(0px 0px 15px rgb(0,0,0,.5));
+}
+
+
+
+
+
+.punct {
+    background-color :#395877;
+    position: absolute;
+    width: 2px;
+    height: 6px;
+}
