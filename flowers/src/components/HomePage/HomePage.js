@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Flowers from '../../public/Flowers.jpg';
+import Flowers from '../../public/bouquet.png';
 import { start } from '../../utils/rain.js'
 import './styles.css';
 
@@ -16,7 +16,7 @@ function HomePage() {
                 <h3>By Isabella</h3>
             </div>
             <div>
-                <img src='https://clipart-best.com/img/bouquet-of-flowers/bouquet-of-flowers-clip-art-44.png' alt="flowers"></img>
+                <img src={Flowers} alt="flowers"></img>
                 <div className="row">
                     <h3>More Coming Soon</h3>
                 </div>
