@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Rainy_Day_Bouquets/static/css/main.320bee6c.chunk.css",
-    "main.js": "/Rainy_Day_Bouquets/static/js/main.cfad3dcb.chunk.js",
-    "main.js.map": "/Rainy_Day_Bouquets/static/js/main.cfad3dcb.chunk.js.map",
+    "main.js": "/Rainy_Day_Bouquets/static/js/main.20747122.chunk.js",
+    "main.js.map": "/Rainy_Day_Bouquets/static/js/main.20747122.chunk.js.map",
     "runtime-main.js": "/Rainy_Day_Bouquets/static/js/runtime-main.61143b98.js",
     "runtime-main.js.map": "/Rainy_Day_Bouquets/static/js/runtime-main.61143b98.js.map",
     "static/js/2.a0cd46b1.chunk.js": "/Rainy_Day_Bouquets/static/js/2.a0cd46b1.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/Rainy_Day_Bouquets/index.html",
     "static/css/main.320bee6c.chunk.css.map": "/Rainy_Day_Bouquets/static/css/main.320bee6c.chunk.css.map",
     "static/js/2.a0cd46b1.chunk.js.LICENSE.txt": "/Rainy_Day_Bouquets/static/js/2.a0cd46b1.chunk.js.LICENSE.txt",
-    "static/media/Flowers.34d5c8f9.jpg": "/Rainy_Day_Bouquets/static/media/Flowers.34d5c8f9.jpg"
+    "static/media/bouquet.cd8524a9.png": "/Rainy_Day_Bouquets/static/media/bouquet.cd8524a9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.61143b98.js",
     "static/js/2.a0cd46b1.chunk.js",
     "static/css/main.320bee6c.chunk.css",
-    "static/js/main.cfad3dcb.chunk.js"
+    "static/js/main.20747122.chunk.js"
   ]
 }
