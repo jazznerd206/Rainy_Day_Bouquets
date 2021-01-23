@@ -17,7 +17,9 @@ function HomePage() {
             </div>
             <div>
                 <img src='https://clipart-best.com/img/bouquet-of-flowers/bouquet-of-flowers-clip-art-44.png' alt="flowers"></img>
-                <h3>Learn More</h3>
+                <div className="row">
+                    <h3>More Coming Soon</h3>
+                </div>
             </div>
         </div>
     )
